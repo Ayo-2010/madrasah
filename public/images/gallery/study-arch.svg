@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Illustrative artwork of an arched Islamic study niche with an open book.">
+  
+  <defs>
+    
+    <pattern id="p" width="90" height="90" patternUnits="userSpaceOnUse">
+      <g fill="none" stroke="#E6D8B4" stroke-width="1.1" opacity="0.16">
+        <path d="M45.0,18.0L49.5,34.2L64.1,25.9L55.8,40.5L72.0,45.0L55.8,49.5L64.1,64.1L49.5,55.8L45.0,72.0L40.5,55.8L25.9,64.1L34.2,49.5L18.0,45.0L34.2,40.5L25.9,25.9L40.5,34.2Z" />
+        <circle cx="45" cy="45" r="7.2" />
+        <path d="M0 45h10.799999999999999M79.2 45h10.799999999999999M45 0v10.799999999999999M45 79.2v10.799999999999999" />
+      </g>
+    </pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#14513C" />
+      <stop offset="1" stop-color="#0A231B" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)" />
+  <rect width="1200" height="900" fill="url(#p)" />
+  
+    <rect x="34" y="34" width="1132" height="832" fill="none" stroke="#C5A45D" stroke-opacity="0.28" stroke-width="1.4" />
+    <rect x="48" y="48" width="1104" height="804" fill="none" stroke="#C5A45D" stroke-opacity="0.12" stroke-width="1" />
+  <path d="M330 790V430a270 270 0 0 1 540 0v360" fill="#FAF8F1" fill-opacity="0.035" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="2.5" />
+  <path d="M362 790V438a238 238 0 0 1 476 0v352" fill="none" stroke="#C5A45D" stroke-opacity="0.25" stroke-width="1.4" />
+  <path d="M600.0,153.0L608.0,185.6L636.8,168.2L619.4,197.0L652.0,205.0L619.4,213.0L636.8,241.8L608.0,224.4L600.0,257.0L592.0,224.4L563.2,241.8L580.6,213.0L548.0,205.0L580.6,197.0L563.2,168.2L592.0,185.6Z" fill="none" stroke="#C5A45D" stroke-width="1.6" />
+  <circle cx="600" cy="205" r="4" fill="#C5A45D" />
+  <text x="600" y="470" text-anchor="middle" font-family="Amiri, 'Traditional Arabic', serif" font-size="170" fill="#E6D8B4">اقرأ</text>
+  <line x1="480" y1="520" x2="720" y2="520" stroke="#C5A45D" stroke-opacity="0.4" stroke-width="1.2" />
+  <text x="600" y="560" text-anchor="middle" font-family="Georgia, serif" font-size="20" letter-spacing="8" fill="#E6D8B4" fill-opacity="0.75">READ · REFLECT · PRACTISE</text>
+  <g transform="translate(600 690)">
+    <path d="M0 -12C-58 -44 -140 -46 -215 -20V105C-140 79 -58 81 0 113 58 81 140 79 215 105V-20C140 -46 58 -44 0 -12Z" fill="#FAF8F1" fill-opacity="0.9" />
+    <path d="M0 -12V113" stroke="#C5A45D" stroke-width="2" />
+    <path d="M0 -12C-58 -44 -140 -46 -215 -20V105C-140 79 -58 81 0 113M0 -12C58 -44 140 -46 215 -20V105C140 79 58 81 0 113" fill="none" stroke="#C5A45D" stroke-width="1.8" />
+    <g stroke="#176B4D" stroke-opacity="0.35" stroke-width="1.6" stroke-linecap="round">
+      <path d="M-180 0c50-12 104-10 146 8M-180 28c50-12 104-10 146 8M-180 56c50-12 104-10 146 8M-180 84c32-7 66-6 94 2" />
+      <path d="M34 8c42-18 96-20 146-8M34 36c42-18 96-20 146-8M34 64c42-18 96-20 146-8M52 92c28-8 62-9 94-2" />
+    </g>
+  </g>
+
+</svg>

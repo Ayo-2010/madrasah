@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    
+    <pattern id="ogp" width="80" height="80" patternUnits="userSpaceOnUse">
+      <g fill="none" stroke="#E6D8B4" stroke-width="1.1" opacity="0.13">
+        <path d="M40.0,16.0L44.0,30.4L57.0,23.0L49.6,36.0L64.0,40.0L49.6,44.0L57.0,57.0L44.0,49.6L40.0,64.0L36.0,49.6L23.0,57.0L30.4,44.0L16.0,40.0L30.4,36.0L23.0,23.0L36.0,30.4Z" />
+        <circle cx="40" cy="40" r="6.4" />
+        <path d="M0 40h9.6M70.4 40h9.6M40 0v9.6M40 70.4v9.6" />
+      </g>
+    </pattern>
+    <linearGradient id="ogbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14513C" />
+      <stop offset="1" stop-color="#0A231B" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#ogbg)" />
+  <rect width="1200" height="630" fill="url(#ogp)" />
+  <rect x="28" y="28" width="1144" height="574" fill="none" stroke="#C5A45D" stroke-opacity="0.3" />
+  <g transform="translate(930 315)">
+    <path d="M0 -210V210" stroke="#C5A45D" stroke-opacity="0.2" />
+    <path d="M-170 210V20a170 170 0 0 1 340 0v190" fill="none" stroke="#C5A45D" stroke-opacity="0.5" stroke-width="2" />
+    <path d="M-140 210V28a140 140 0 0 1 280 0v182" fill="none" stroke="#C5A45D" stroke-opacity="0.22" stroke-width="1.2" />
+    <path d="M0.0,-129.0L11.5,-82.7L52.3,-107.3L27.7,-66.5L74.0,-55.0L27.7,-43.5L52.3,-2.7L11.5,-27.3L0.0,19.0L-11.5,-27.3L-52.3,-2.7L-27.7,-43.5L-74.0,-55.0L-27.7,-66.5L-52.3,-107.3L-11.5,-82.7Z" fill="none" stroke="#E6D8B4" stroke-opacity="0.65" stroke-width="1.5" />
+    <g transform="translate(0 30)">
+      <path d="M0 -12C-32 -25 -78 -26 -120 -12V58C-78 44 -32 45 0 58 32 45 78 44 120 58V-12C78 -26 32 -25 0 -12Z" fill="none" stroke="#E6D8B4" stroke-opacity="0.6" stroke-width="1.6" />
+      <path d="M0 -12V58M-96 8c26-6 54-5 78 5M-96 28c26-6 54-5 78 5M18 13c24-10 52-11 78-5M18 33c24-10 52-11 78-5" fill="none" stroke="#E6D8B4" stroke-opacity="0.32" stroke-width="1.2" />
+    </g>
+    <circle cx="0" cy="-55" r="4" fill="#C5A45D" />
+  </g>
+  <g transform="translate(96 175)">
+    <rect width="72" height="72" rx="18" fill="#123C2F" stroke="#C5A45D" stroke-opacity="0.4" />
+    <path d="M18 53V36c0-7.2 8.1-12 18-12s18 4.8 18 12v17" fill="none" stroke="#E6D8B4" stroke-width="1.8" stroke-linecap="round" />
+    <path d="M20 50c5-1.8 9.6-1.2 16 1.8 6.4-3 11-3.6 16-1.8v5c-5-1.8-9.6-1.2-16 1.8-6.4-3-11-3.6-16-1.8Z" fill="#C5A45D" />
+  </g>
+  <text x="190" y="222" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#E6D8B4" letter-spacing="1">Madrasah Al-Noor</text>
+  <text x="96" y="330" font-family="Georgia, 'Times New Roman', serif" font-size="62" fill="#FAF8F1">Qur’an, knowledge</text>
+  <text x="96" y="402" font-family="Georgia, 'Times New Roman', serif" font-size="62" fill="#FAF8F1">and good character.</text>
+  <text x="96" y="470" font-family="Arial, sans-serif" font-size="18" letter-spacing="5" fill="#E6D8B4" fill-opacity="0.8">A COMMUNITY ISLAMIC SCHOOL</text>
+  <path d="M96 505h330" stroke="#C5A45D" stroke-opacity="0.4" />
+  <text x="96" y="546" font-family="Arial, sans-serif" font-size="17" letter-spacing="3" fill="#FAF8F1" fill-opacity="0.55">CHILDREN · TEENAGERS · ADULTS</text>
+</svg>

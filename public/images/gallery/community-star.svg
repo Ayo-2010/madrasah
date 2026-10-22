@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Illustrative artwork of an eight-point star surrounded by smaller stars.">
+  
+  <defs>
+    <pattern id="p" width="90" height="90" patternUnits="userSpaceOnUse">
+      <g fill="none" stroke="#E6D8B4" stroke-width="1.1" opacity="0.12">
+        <path d="M45.0,18.0L49.5,34.2L64.1,25.9L55.8,40.5L72.0,45.0L55.8,49.5L64.1,64.1L49.5,55.8L45.0,72.0L40.5,55.8L25.9,64.1L34.2,49.5L18.0,45.0L34.2,40.5L25.9,25.9L40.5,34.2Z" />
+        <circle cx="45" cy="45" r="7.2" />
+        <path d="M0 45h10.799999999999999M79.2 45h10.799999999999999M45 0v10.799999999999999M45 79.2v10.799999999999999" />
+      </g>
+    </pattern></defs>
+  <rect width="1200" height="900" fill="#123C2F" />
+  <rect width="1200" height="900" fill="url(#p)" />
+  
+    <rect x="34" y="34" width="1132" height="832" fill="none" stroke="#C5A45D" stroke-opacity="0.28" stroke-width="1.4" />
+    <rect x="48" y="48" width="1104" height="804" fill="none" stroke="#C5A45D" stroke-opacity="0.12" stroke-width="1" />
+  <g transform="translate(600 450)" fill="none" stroke="#C5A45D">
+    <circle r="330" stroke-opacity="0.25" stroke-width="1" stroke-dasharray="2 9" />
+    <circle r="240" stroke-opacity="0.4" stroke-width="1" />
+    <path d="M0.0,-190.0L29.8,-72.1L134.4,-134.4L72.1,-29.8L190.0,0.0L72.1,29.8L134.4,134.4L29.8,72.1L0.0,190.0L-29.8,72.1L-134.4,134.4L-72.1,29.8L-190.0,0.0L-72.1,-29.8L-134.4,-134.4L-29.8,-72.1Z" stroke-width="2" stroke-opacity="0.85" />
+    <path d="M0.0,-132.0L20.7,-49.9L93.3,-93.3L49.9,-20.7L132.0,0.0L49.9,20.7L93.3,93.3L20.7,49.9L0.0,132.0L-20.7,49.9L-93.3,93.3L-49.9,20.7L-132.0,0.0L-49.9,-20.7L-93.3,-93.3L-20.7,-49.9Z" stroke-width="1.2" stroke-opacity="0.45" />
+    <circle r="34" fill="#C5A45D" fill-opacity="0.9" stroke="none" />
+    <circle r="16" fill="#123C2F" stroke="none" />
+    
+        <line x1="195" y1="0" x2="255" y2="0" stroke-opacity="0.25" stroke-width="1" />
+        <circle cx="280" cy="0" r="28" fill="#14513C" stroke-opacity="0.6" />
+        <path d="M280.0,-12.0L281.9,-4.6L288.5,-8.5L284.6,-1.9L292.0,0.0L284.6,1.9L288.5,8.5L281.9,4.6L280.0,12.0L278.1,4.6L271.5,8.5L275.4,1.9L268.0,0.0L275.4,-1.9L271.5,-8.5L278.1,-4.6Z" stroke-opacity="0.8" stroke="#E6D8B4" stroke-width="1.1" />
+      
+        <line x1="137.88582233137677" y1="137.88582233137674" x2="180.31222920256963" y2="180.3122292025696" stroke-opacity="0.25" stroke-width="1" />
+        <circle cx="197.9898987322333" cy="197.98989873223329" r="28" fill="#14513C" stroke-opacity="0.6" />
+        <path d="M198.0,186.0L199.9,193.4L206.5,189.5L202.6,196.1L210.0,198.0L202.6,199.9L206.5,206.5L199.9,202.6L198.0,210.0L196.1,202.6L189.5,206.5L193.4,199.9L186.0,198.0L193.4,196.1L189.5,189.5L196.1,193.4Z" stroke-opacity="0.8" stroke="#E6D8B4" stroke-width="1.1" />
+      
+        <line x1="1.1940306291686694e-14" y1="195" x2="1.5614246689128753e-14" y2="255" stroke-opacity="0.25" stroke-width="1" />
+        <circle cx="1.7145055188062946e-14" cy="280" r="28" fill="#14513C" stroke-opacity="0.6" />
+        <path d="M0.0,268.0L1.9,275.4L8.5,271.5L4.6,278.1L12.0,280.0L4.6,281.9L8.5,288.5L1.9,284.6L0.0,292.0L-1.9,284.6L-8.5,288.5L-4.6,281.9L-12.0,280.0L-4.6,278.1L-8.5,271.5L-1.9,275.4Z" stroke-opacity="0.8" stroke="#E6D8B4" stroke-width="1.1" />
+      
+        <line x1="-137.88582233137674" y1="137.88582233137677" x2="-180.3122292025696" y2="180.31222920256963" stroke-opacity="0.25" stroke-width="1" />
+        <circle cx="-197.98989873223329" cy="197.9898987322333" r="28" fill="#14513C" stroke-opacity="0.6" />
+        <path d="M-198.0,186.0L-196.1,193.4L-189.5,189.5L-193.4,196.1L-186.0,198.0L-193.4,199.9L-189.5,206.5L-196.1,202.6L-198.0,210.0L-199.9,202.6L-206.5,206.5L-202.6,199.9L-210.0,198.0L-202.6,196.1L-206.5,189.5L-199.9,193.4Z" stroke-opacity="0.8" stroke="#E6D8B4" stroke-width="1.1" />
+      
+        <line x1="-195" y1="2.388061258337339e-14" x2="-255" y2="3.122849337825751e-14" stroke-opacity="0.25" stroke-width="1" />
+        <circle cx="-280" cy="3.429011037612589e-14" r="28" fill="#14513C" stroke-opacity="0.6" />
+        <path d="M-280.0,-12.0L-278.1,-4.6L-271.5,-8.5L-275.4,-1.9L-268.0,0.0L-275.4,1.9L-271.5,8.5L-278.1,4.6L-280.0,12.0L-281.9,4.6L-288.5,8.5L-284.6,1.9L-292.0,0.0L-284.6,-1.9L-288.5,-8.5L-281.9,-4.6Z" stroke-opacity="0.8" stroke="#E6D8B4" stroke-width="1.1" />
+      
+        <line x1="-137.8858223313768" y1="-137.88582233137674" x2="-180.31222920256965" y2="-180.3122292025696" stroke-opacity="0.25" stroke-width="1" />
+        <circle cx="-197.98989873223334" cy="-197.98989873223329" r="28" fill="#14513C" stroke-opacity="0.6" />
+        <path d="M-198.0,-210.0L-196.1,-202.6L-189.5,-206.5L-193.4,-199.9L-186.0,-198.0L-193.4,-196.1L-189.5,-189.5L-196.1,-193.4L-198.0,-186.0L-199.9,-193.4L-206.5,-189.5L-202.6,-196.1L-210.0,-198.0L-202.6,-199.9L-206.5,-206.5L-199.9,-202.6Z" stroke-opacity="0.8" stroke="#E6D8B4" stroke-width="1.1" />
+      
+        <line x1="-3.582091887506008e-14" y1="-195" x2="-4.684274006738626e-14" y2="-255" stroke-opacity="0.25" stroke-width="1" />
+        <circle cx="-5.143516556418883e-14" cy="-280" r="28" fill="#14513C" stroke-opacity="0.6" />
+        <path d="M-0.0,-292.0L1.9,-284.6L8.5,-288.5L4.6,-281.9L12.0,-280.0L4.6,-278.1L8.5,-271.5L1.9,-275.4L-0.0,-268.0L-1.9,-275.4L-8.5,-271.5L-4.6,-278.1L-12.0,-280.0L-4.6,-281.9L-8.5,-288.5L-1.9,-284.6Z" stroke-opacity="0.8" stroke="#E6D8B4" stroke-width="1.1" />
+      
+        <line x1="137.88582233137674" y1="-137.8858223313768" x2="180.31222920256957" y2="-180.31222920256965" stroke-opacity="0.25" stroke-width="1" />
+        <circle cx="197.98989873223326" cy="-197.98989873223334" r="28" fill="#14513C" stroke-opacity="0.6" />
+        <path d="M198.0,-210.0L199.9,-202.6L206.5,-206.5L202.6,-199.9L210.0,-198.0L202.6,-196.1L206.5,-189.5L199.9,-193.4L198.0,-186.0L196.1,-193.4L189.5,-189.5L193.4,-196.1L186.0,-198.0L193.4,-199.9L189.5,-206.5L196.1,-202.6Z" stroke-opacity="0.8" stroke="#E6D8B4" stroke-width="1.1" />
+      
+  </g>
+  <text x="600" y="812" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="7" fill="#E6D8B4" fill-opacity="0.6">A COMMUNITY OF LEARNING</text>
+
+</svg>

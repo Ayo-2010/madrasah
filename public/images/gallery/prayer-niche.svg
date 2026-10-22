@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Illustrative artwork of a prayer niche with a hanging lamp.">
+  
+  <defs>
+    
+    <pattern id="p" width="90" height="90" patternUnits="userSpaceOnUse">
+      <g fill="none" stroke="#E6D8B4" stroke-width="1.1" opacity="0.13">
+        <path d="M45.0,18.0L49.5,34.2L64.1,25.9L55.8,40.5L72.0,45.0L55.8,49.5L64.1,64.1L49.5,55.8L45.0,72.0L40.5,55.8L25.9,64.1L34.2,49.5L18.0,45.0L34.2,40.5L25.9,25.9L40.5,34.2Z" />
+        <circle cx="45" cy="45" r="7.2" />
+        <path d="M0 45h10.799999999999999M79.2 45h10.799999999999999M45 0v10.799999999999999M45 79.2v10.799999999999999" />
+      </g>
+    </pattern>
+    <linearGradient id="niche" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#176B4D" stop-opacity="0.55" />
+      <stop offset="1" stop-color="#0A231B" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="#0A231B" />
+  <rect width="1200" height="900" fill="url(#p)" />
+  
+    <rect x="34" y="34" width="1132" height="832" fill="none" stroke="#C5A45D" stroke-opacity="0.28" stroke-width="1.4" />
+    <rect x="48" y="48" width="1104" height="804" fill="none" stroke="#C5A45D" stroke-opacity="0.12" stroke-width="1" />
+  <path d="M300 810V470a300 300 0 0 1 600 0v340Z" fill="url(#niche)" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="2.5" />
+  <path d="M338 810V478a262 262 0 0 1 524 0v332" fill="none" stroke="#C5A45D" stroke-opacity="0.25" stroke-width="1.2" />
+  <path d="M382 810V488a218 218 0 0 1 436 0v322" fill="none" stroke="#C5A45D" stroke-opacity="0.35" stroke-width="1" stroke-dasharray="2 6" />
+  <g>
+    <line x1="600" y1="130" x2="600" y2="270" stroke="#C5A45D" stroke-width="1.6" />
+    <path d="M540 270h120l-18 80H558Z" fill="#14513C" stroke="#C5A45D" stroke-width="1.5" />
+    <path d="M565 350h70l-35 55Z" fill="#C5A45D" fill-opacity="0.85" />
+    <circle cx="600" cy="310" r="34" fill="#E6D8B4" fill-opacity="0.16" stroke="#E6D8B4" stroke-opacity="0.4" />
+  </g>
+  <g fill="#C5A45D">
+    <path d="M600.0,595.0L603.1,607.6L614.1,600.9L607.4,611.9L620.0,615.0L607.4,618.1L614.1,629.1L603.1,622.4L600.0,635.0L596.9,622.4L585.9,629.1L592.6,618.1L580.0,615.0L592.6,611.9L585.9,600.9L596.9,607.6Z" fill-opacity="0.75" />
+    <circle cx="600" cy="715" r="3" />
+  </g>
+  <line x1="240" y1="810" x2="960" y2="810" stroke="#C5A45D" stroke-opacity="0.5" stroke-width="2" />
+  <g fill="#C5A45D" opacity="0.5">
+    <circle cx="230" cy="180" r="2.5" />
+    <circle cx="980" cy="230" r="2" />
+    <circle cx="1040" cy="540" r="3" />
+  </g>
+
+</svg>

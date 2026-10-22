@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Illustrative artwork of repeating Islamic arches.">
+  
+  <defs>
+    
+    <pattern id="p" width="90" height="90" patternUnits="userSpaceOnUse">
+      <g fill="none" stroke="#E6D8B4" stroke-width="1.1" opacity="0.1">
+        <path d="M45.0,18.0L49.5,34.2L64.1,25.9L55.8,40.5L72.0,45.0L55.8,49.5L64.1,64.1L49.5,55.8L45.0,72.0L40.5,55.8L25.9,64.1L34.2,49.5L18.0,45.0L34.2,40.5L25.9,25.9L40.5,34.2Z" />
+        <circle cx="45" cy="45" r="7.2" />
+        <path d="M0 45h10.799999999999999M79.2 45h10.799999999999999M45 0v10.799999999999999M45 79.2v10.799999999999999" />
+      </g>
+    </pattern>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#123C2F" />
+      <stop offset="1" stop-color="#0A231B" />
+    </linearGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#14513C" />
+      <stop offset="1" stop-color="#0A231B" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#sky)" />
+  <rect width="1200" height="900" fill="url(#p)" />
+  
+    <rect x="34" y="34" width="1132" height="832" fill="none" stroke="#C5A45D" stroke-opacity="0.28" stroke-width="1.4" />
+    <rect x="48" y="48" width="1104" height="804" fill="none" stroke="#C5A45D" stroke-opacity="0.12" stroke-width="1" />
+  <rect y="680" width="1200" height="220" fill="url(#floor)" />
+  <g fill="none" stroke="#C5A45D" stroke-width="1.8">
+    
+      <path d="M80 680V390a80 80 0 0 1 160 0v290" stroke-opacity="0.55" />
+      <path d="M98 680V398a62 62 0 0 1 124 0v282" stroke-opacity="0.25" stroke-width="1" />
+      <circle cx="160" cy="300" r="4" fill="#C5A45D" stroke="none" />
+    
+      <path d="M300 680V390a80 80 0 0 1 160 0v290" stroke-opacity="0.55" />
+      <path d="M318 680V398a62 62 0 0 1 124 0v282" stroke-opacity="0.25" stroke-width="1" />
+      <circle cx="380" cy="300" r="4" fill="#C5A45D" stroke="none" />
+    
+      <path d="M520 680V390a80 80 0 0 1 160 0v290" stroke-opacity="0.9" />
+      <path d="M538 680V398a62 62 0 0 1 124 0v282" stroke-opacity="0.25" stroke-width="1" />
+      <circle cx="600" cy="300" r="4" fill="#C5A45D" stroke="none" />
+    
+      <path d="M740 680V390a80 80 0 0 1 160 0v290" stroke-opacity="0.55" />
+      <path d="M758 680V398a62 62 0 0 1 124 0v282" stroke-opacity="0.25" stroke-width="1" />
+      <circle cx="820" cy="300" r="4" fill="#C5A45D" stroke="none" />
+    
+      <path d="M960 680V390a80 80 0 0 1 160 0v290" stroke-opacity="0.55" />
+      <path d="M978 680V398a62 62 0 0 1 124 0v282" stroke-opacity="0.25" stroke-width="1" />
+      <circle cx="1040" cy="300" r="4" fill="#C5A45D" stroke="none" />
+    
+  </g>
+  <path d="M0 790h1200M0 830h1200" stroke="#C5A45D" stroke-opacity="0.18" stroke-width="1" />
+  <g transform="translate(600 150)" fill="none" stroke="#E6D8B4">
+    <path d="M0.0,-34.0L5.4,-12.9L24.0,-24.0L12.9,-5.4L34.0,0.0L12.9,5.4L24.0,24.0L5.4,12.9L0.0,34.0L-5.4,12.9L-24.0,24.0L-12.9,5.4L-34.0,0.0L-12.9,-5.4L-24.0,-24.0L-5.4,-12.9Z" stroke-width="1.6" />
+    <circle r="4" fill="#C5A45D" stroke="none" />
+  </g>
+  <g fill="#E6D8B4" opacity="0.7">
+    <circle cx="250" cy="170" r="2.5" />
+    <circle cx="950" cy="210" r="2" />
+    <circle cx="1050" cy="120" r="3" />
+    <circle cx="160" cy="120" r="2" />
+  </g>
+
+</svg>

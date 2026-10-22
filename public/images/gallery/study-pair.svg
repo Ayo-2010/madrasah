@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Illustrative artwork of open books beneath a geometric arch.">
+  
+  <defs>
+    <pattern id="p" width="90" height="90" patternUnits="userSpaceOnUse">
+      <g fill="none" stroke="#176B4D" stroke-width="1.1" opacity="0.1">
+        <path d="M45.0,18.0L49.5,34.2L64.1,25.9L55.8,40.5L72.0,45.0L55.8,49.5L64.1,64.1L49.5,55.8L45.0,72.0L40.5,55.8L25.9,64.1L34.2,49.5L18.0,45.0L34.2,40.5L25.9,25.9L40.5,34.2Z" />
+        <circle cx="45" cy="45" r="7.2" />
+        <path d="M0 45h10.799999999999999M79.2 45h10.799999999999999M45 0v10.799999999999999M45 79.2v10.799999999999999" />
+      </g>
+    </pattern></defs>
+  <rect width="1200" height="900" fill="#F2EDE0" />
+  <rect width="1200" height="900" fill="url(#p)" />
+  
+    <rect x="34" y="34" width="1132" height="832" fill="none" stroke="#C5A45D" stroke-opacity="0.28" stroke-width="1.4" />
+    <rect x="48" y="48" width="1104" height="804" fill="none" stroke="#C5A45D" stroke-opacity="0.12" stroke-width="1" />
+  <path d="M210 780V400a390 390 0 0 1 780 0v380" fill="#FAF8F1" stroke="#123C2F" stroke-opacity="0.45" stroke-width="2" />
+  <path d="M250 780V408a350 350 0 0 1 700 0v372" fill="none" stroke="#C5A45D" stroke-opacity="0.5" stroke-width="1.4" />
+  <text x="600" y="250" text-anchor="middle" font-family="Amiri, 'Traditional Arabic', serif" font-size="92" fill="#123C2F">العلم</text>
+  <line x1="470" y1="285" x2="730" y2="285" stroke="#C5A45D" stroke-width="1.2" />
+  <g stroke="#123C2F" stroke-width="2" fill="#FAF8F1">
+    <path d="M300 628c48-28 106-30 158-10v96c-52-20-110-18-158 10Z" />
+    <path d="M458 618c52-20 110-18 158 10v96c-48-28-106-30-158-10Z" />
+    <path d="M584 628c48-28 106-30 158-10v96c-52-20-110-18-158 10Z" />
+    <path d="M742 618c52-20 110-18 158 10v96c-48-28-106-30-158-10Z" />
+  </g>
+  <g stroke="#C5A45D" stroke-width="1.3" stroke-linecap="round">
+    <path d="M458 618v106M742 618v106" />
+    <path d="M330 650c33-10 67-9 97 2M330 674c33-10 67-9 97 2M330 698c23-7 48-6 70 1" />
+    <path d="M488 640c30-11 64-12 97-2M488 664c30-11 64-12 97-2M488 688c30-11 64-12 97-2" />
+    <path d="M614 650c33-10 67-9 97 2M614 674c33-10 67-9 97 2M614 698c23-7 48-6 70 1" />
+    <path d="M772 640c30-11 64-12 97-2M772 664c30-11 64-12 97-2M772 688c30-11 64-12 97-2" />
+  </g>
+  <g fill="#C5A45D">
+    <path d="M600.0,355.0L602.7,363.5L610.6,359.4L606.5,367.3L615.0,370.0L606.5,372.7L610.6,380.6L602.7,376.5L600.0,385.0L597.3,376.5L589.4,380.6L593.5,372.7L585.0,370.0L593.5,367.3L589.4,359.4L597.3,363.5Z" />
+    <circle cx="600" cy="420" r="3" />
+  </g>
+
+</svg>

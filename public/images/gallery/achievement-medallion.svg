@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Illustrative artwork of a gold geometric achievement medallion.">
+  
+  <defs>
+    
+    <pattern id="p" width="90" height="90" patternUnits="userSpaceOnUse">
+      <g fill="none" stroke="#E6D8B4" stroke-width="1.1" opacity="0.1">
+        <path d="M45.0,18.0L49.5,34.2L64.1,25.9L55.8,40.5L72.0,45.0L55.8,49.5L64.1,64.1L49.5,55.8L45.0,72.0L40.5,55.8L25.9,64.1L34.2,49.5L18.0,45.0L34.2,40.5L25.9,25.9L40.5,34.2Z" />
+        <circle cx="45" cy="45" r="7.2" />
+        <path d="M0 45h10.799999999999999M79.2 45h10.799999999999999M45 0v10.799999999999999M45 79.2v10.799999999999999" />
+      </g>
+    </pattern>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E6D8B4" />
+      <stop offset="1" stop-color="#C5A45D" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="#0A231B" />
+  <rect width="1200" height="900" fill="url(#p)" />
+  
+    <rect x="34" y="34" width="1132" height="832" fill="none" stroke="#C5A45D" stroke-opacity="0.28" stroke-width="1.4" />
+    <rect x="48" y="48" width="1104" height="804" fill="none" stroke="#C5A45D" stroke-opacity="0.12" stroke-width="1" />
+  <g transform="translate(600 430)" fill="none">
+    <circle r="265" fill="#123C2F" stroke="#C5A45D" stroke-opacity="0.4" stroke-width="1.4" />
+    <circle r="236" stroke="#C5A45D" stroke-opacity="0.25" stroke-width="1" stroke-dasharray="3 7" />
+    <circle r="205" stroke="#C5A45D" stroke-opacity="0.5" stroke-width="1.2" />
+    <path d="M0.0,-168.0L26.0,-62.8L118.8,-118.8L62.8,-26.0L168.0,0.0L62.8,26.0L118.8,118.8L26.0,62.8L0.0,168.0L-26.0,62.8L-118.8,118.8L-62.8,26.0L-168.0,0.0L-62.8,-26.0L-118.8,-118.8L-26.0,-62.8Z" fill="#14513C" stroke="url(#gold)" stroke-width="2" />
+    <path d="M0.0,-120.0L18.4,-44.3L84.9,-84.9L44.3,-18.4L120.0,0.0L44.3,18.4L84.9,84.9L18.4,44.3L0.0,120.0L-18.4,44.3L-84.9,84.9L-44.3,18.4L-120.0,0.0L-44.3,-18.4L-84.9,-84.9L-18.4,-44.3Z" stroke="#E6D8B4" stroke-opacity="0.45" stroke-width="1.2" />
+    <circle r="34" fill="#0A231B" stroke="url(#gold)" stroke-width="1.5" />
+    <path d="M0.0,-22.0L3.4,-8.3L15.6,-15.6L8.3,-3.4L22.0,0.0L8.3,3.4L15.6,15.6L3.4,8.3L0.0,22.0L-3.4,8.3L-15.6,15.6L-8.3,3.4L-22.0,0.0L-8.3,-3.4L-15.6,-15.6L-3.4,-8.3Z" fill="url(#gold)" stroke="none" />
+    <line x1="0" y1="-205" x2="0" y2="-224" transform="rotate(0)" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="1.4" /><line x1="0" y1="-205" x2="0" y2="-224" transform="rotate(15)" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="1.4" /><line x1="0" y1="-205" x2="0" y2="-224" transform="rotate(30)" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="1.4" /><line x1="0" y1="-205" x2="0" y2="-224" transform="rotate(45)" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="1.4" /><line x1="0" y1="-205" x2="0" y2="-224" transform="rotate(60)" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="1.4" /><line x1="0" y1="-205" x2="0" y2="-224" transform="rotate(75)" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="1.4" /><line x1="0" y1="-205" x2="0" y2="-224" transform="rotate(90)" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="1.4" /><line x1="0" y1="-205" x2="0" y2="-224" transform="rotate(105)" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="1.4" /><line x1="0" y1="-205" x2="0" y2="-224" transform="rotate(120)" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="1.4" /><line x1="0" y1="-205" x2="0" y2="-224" transform="rotate(135)" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="1.4" /><line x1="0" y1="-205" x2="0" y2="-224" transform="rotate(150)" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="1.4" /><line x1="0" y1="-205" x2="0" y2="-224" transform="rotate(165)" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="1.4" /><line x1="0" y1="-205" x2="0" y2="-224" transform="rotate(180)" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="1.4" /><line x1="0" y1="-205" x2="0" y2="-224" transform="rotate(195)" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="1.4" /><line x1="0" y1="-205" x2="0" y2="-224" transform="rotate(210)" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="1.4" /><line x1="0" y1="-205" x2="0" y2="-224" transform="rotate(225)" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="1.4" /><line x1="0" y1="-205" x2="0" y2="-224" transform="rotate(240)" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="1.4" /><line x1="0" y1="-205" x2="0" y2="-224" transform="rotate(255)" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="1.4" /><line x1="0" y1="-205" x2="0" y2="-224" transform="rotate(270)" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="1.4" /><line x1="0" y1="-205" x2="0" y2="-224" transform="rotate(285)" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="1.4" /><line x1="0" y1="-205" x2="0" y2="-224" transform="rotate(300)" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="1.4" /><line x1="0" y1="-205" x2="0" y2="-224" transform="rotate(315)" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="1.4" /><line x1="0" y1="-205" x2="0" y2="-224" transform="rotate(330)" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="1.4" /><line x1="0" y1="-205" x2="0" y2="-224" transform="rotate(345)" stroke="#C5A45D" stroke-opacity="0.55" stroke-width="1.4" />
+  </g>
+  <text x="600" y="780" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="7" fill="#E6D8B4" fill-opacity="0.55">STEADY PROGRESS · SINCERE EFFORT</text>
+
+</svg>
